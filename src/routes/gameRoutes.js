@@ -129,6 +129,112 @@ router.get('/by-ids', async (req, res) => {
   }
 });
 
+// POST /api/games/by-ids — Get multiple games by IDs (body: { ids: ["id1", "id2"] })
+router.post('/by-ids', async (req, res) => {
+  try {
+    const { ids: rawIds } = req.body;
+
+    if (!rawIds || !Array.isArray(rawIds)) {
+      return res.status(400).json({
+        success: false,
+        message: 'Provide an array of game ids in the request body: { "ids": ["id1", "id2"] }'
+      });
+    }
+
+    const ids = rawIds
+      .map(id => id.trim())
+      .filter(id => mongoose.Types.ObjectId.isValid(id));
+
+    if (!ids.length) {
+      return res.status(400).json({
+        success: false,
+        message: 'No valid game ids provided.'
+      });
+    }
+
+    const games = await Game.find({ _id: { $in: ids } }).lean();
+
+    if (!games.length) {
+      return res.status(404).json({ success: false, message: 'No games found for supplied ids.' });
+    }
+
+    const providerCodes = [...new Set(games.map(g => g.providerCode))];
+    const providers = await Provider.find({ providerCode: { $in: providerCodes } }).lean();
+    const providerMap = {};
+    providers.forEach(p => {
+      providerMap[p.providerCode] = {
+        provider_code: p.providerCode,
+        providerName: p.providerName,
+        gameType: p.gameType
+      };
+    });
+
+    const formatted = games.map(game => ({
+      _id: game._id,
+      game_code: game.gameCode || 0,
+      gameName: game.gameName,
+      game_type: game.gameType || 0,
+      jackpot: game.jackpot,
+      image: game.image,
+      eventGameType: game.eventGameType,
+      freeTry: game.freeTry,
+      seq: game.seq,
+      rtp: game.rtp,
+      balance: game.balance,
+      provider: providerMap[game.providerCode] || { provider_code: game.providerCode }
+    }));
+
+    res.json({ success: true, count: formatted.length, data: formatted });
+  } catch (error) {
+    res.status(500).json({ success: false, message: error.message });
+  }
+});
+
+// POST /api/games/get-list — Get game list by provider (body: { providerCode: "JILI" })
+router.post('/get-list', async (req, res) => {
+  try {
+    const { providerCode } = req.body;
+
+    if (!providerCode) {
+      return res.status(400).json({
+        success: false,
+        message: 'Missing required field: providerCode'
+      });
+    }
+
+    const games = await Game.find({ providerCode: providerCode.toUpperCase() }).lean();
+
+    if (!games.length) {
+      return res.status(404).json({
+        success: false,
+        message: `No games found for provider: ${providerCode}`
+      });
+    }
+
+    const formatted = games.map(game => ({
+      gameCode: game.gameCode || 0,
+      gameName: game.gameName,
+      jackpot: game.jackpot || 'FALSE',
+      image: game.image,
+      gameType: game.gameType || 'SLOT',
+      eventGameType: game.eventGameType || null,
+      freeTry: game.freeTry || 'FALSE',
+      seq: game.seq || 1,
+      rtp: game.rtp || 100,
+      balance: game.balance || null,
+      providerCode: game.providerCode
+    }));
+
+    res.json({
+      success: true,
+      message: 'Game list retrieved successfully',
+      data: formatted
+    });
+  } catch (error) {
+    res.status(500).json({ success: false, message: error.message });
+  }
+});
+
 // GET /api/games/:id — Get single game by MongoDB ID with provider info
 router.get('/:id', async (req, res) => {
   try {

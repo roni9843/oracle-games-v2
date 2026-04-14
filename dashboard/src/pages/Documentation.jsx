@@ -15,7 +15,7 @@ const CodeSnippet = ({ type, url, method = 'GET', body, apiKey, copyToClipboard,
         if (method === 'POST' && body) {
             bodyStr = ` \\\n  -d '${JSON.stringify(body, null, 2)}'`;
         }
-                code = `curl -X ${method} "${fullUrl}" \\
+        code = `curl -X ${method} "${fullUrl}" \\
     -H "${headerKey}: ${apiKey || 'YOUR_API_KEY'}" \\
     -H "Content-Type: application/json"${bodyStr}`;
     } else if (type === 'js') {
@@ -172,8 +172,8 @@ const EndpointBlock = ({
                                         method={method}
                                         body={body}
                                         apiKey={apiKey}
-                                            copyToClipboard={copyToClipboard}
-                                            headerKey={headerKey}
+                                        copyToClipboard={copyToClipboard}
+                                        headerKey={headerKey}
                                     />
                                 )}
                             </div>
@@ -204,6 +204,8 @@ const Documentation = () => {
     const [providerCode, setProviderCode] = useState('');
     const [gameId, setGameId] = useState('');
     const [multiGameIds, setMultiGameIds] = useState('');
+    const [multiGameIdsPost, setMultiGameIdsPost] = useState('');
+    const [providerCodeList, setProviderCodeList] = useState('JILI');
 
     // Launch Game Inputs
     const [launchUser, setLaunchUser] = useState('username');
@@ -448,10 +450,10 @@ const Documentation = () => {
 
                                     <div className="bg-slate-950 border border-slate-800 rounded-lg p-4 space-y-3">
                                         <div className="flex items-center gap-2 text-xs uppercase tracking-[0.08em] text-pink-300 font-semibold">
-                                            <Code size={14} /> Node/Express with qs
+                                            <Code size={14} /> LIVE URL: Node/Express with qs
                                         </div>
                                         <pre className="text-[11px] leading-relaxed text-blue-200 font-mono whitespace-pre overflow-x-auto bg-slate-900 rounded-md p-3 border border-slate-800">
-{`const axios = require('axios');
+                                            {`const axios = require('axios');
 const qs = require('qs');
 
 app.post('/launch', async (req, res) => {
@@ -621,26 +623,52 @@ app.post('/launch', async (req, res) => {
                         }
                     />
 
-                    {/* 5. Multiple Games by IDs */}
+                    {/* 6. Multiple Games by IDs (POST) */}
                     <EndpointBlock
                         {...blockProps}
-                        id="games_by_ids"
-                        method="GET"
-                        path="/api/games/by-ids?ids=id1,id2"
-                        title="Get Games by IDs"
-                        description="Fetch multiple games in one call by providing a comma-separated list of MongoDB game IDs. Returns the same metadata as the single game endpoint for each match."
-                        requestUrl={getGamesByIdsUrl()}
+                        id="games_by_ids_post"
+                        method="POST"
+                        path="/api/games/by-ids"
+                        title="Get Games by IDs (Body)"
+                        description="Fetch multiple games by passing an array of MongoDB IDs in the request body. Cleaner for large lists of IDs."
+                        requestUrl="/api/games/by-ids"
+                        body={{ ids: multiGameIdsPost.split(',').map(id => id.trim()).filter(id => id) }}
                         inputs={
                             <div className="grid md:grid-cols-2 gap-4">
                                 <div>
                                     <label className="block text-xs font-medium text-slate-400 mb-1.5">Game IDs (comma separated)</label>
                                     <textarea
-                                        placeholder="65c92...,65c93...,65c94..."
+                                        placeholder="65c92...,65c93..."
                                         className="w-full bg-slate-950 border border-slate-700 rounded px-3 py-2 text-sm text-white focus:border-blue-500 outline-none font-mono min-h-[80px]"
-                                        value={multiGameIds}
-                                        onChange={e => setMultiGameIds(e.target.value)}
+                                        value={multiGameIdsPost}
+                                        onChange={e => setMultiGameIdsPost(e.target.value)}
                                     />
-                                    <p className="text-[10px] text-slate-500 mt-1 font-mono">Tip: Paste multiple IDs separated by commas; invalid IDs are ignored.</p>
+                                </div>
+                            </div>
+                        }
+                    />
+
+                    {/* 7. Get Game List (POST) */}
+                    <EndpointBlock
+                        {...blockProps}
+                        id="game_list_post"
+                        method="POST"
+                        path="/api/games/get-list"
+                        title="Get Game List by Provider"
+                        description="Get a simplified list of games for a specific provider. Mimics the legacy game list API format."
+                        requestUrl="/api/games/get-list"
+                        body={{ providerCode: providerCodeList }}
+                        inputs={
+                            <div className="grid md:grid-cols-2 gap-4">
+                                <div>
+                                    <label className="block text-xs font-medium text-slate-400 mb-1.5">Provider Code</label>
+                                    <input
+                                        type="text"
+                                        placeholder="e.g. JILI"
+                                        className="w-full bg-slate-950 border border-slate-700 rounded px-3 py-2 text-sm text-white focus:border-blue-500 outline-none font-mono"
+                                        value={providerCodeList}
+                                        onChange={e => setProviderCodeList(e.target.value)}
+                                    />
                                 </div>
                             </div>
                         }
