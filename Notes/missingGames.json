@@ -1,0 +1,1983 @@
+[
+  {
+    "gameCode": "20",
+    "gameName": "Bombing Fishing",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "223",
+    "gameName": "Fortune Gems 2",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PPLCO",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "461",
+    "gameName": "Pirate Queen 2",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "NETG_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "77",
+    "gameName": "Boxing King",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "35",
+    "gameName": "Crazy777",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "460",
+    "gameName": "3 Charge Buffalo",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "472",
+    "gameName": "3 Coin Treasures 2",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "NETG_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "485",
+    "gameName": "3 Coin Wild Horse",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "NETG_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "75",
+    "gameName": "AK47",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "115",
+    "gameName": "Agent Ace",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "110",
+    "gameName": "Ali Baba",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "119",
+    "gameName": "All-star Fishing",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "79",
+    "gameName": "Andar Bahar",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "152",
+    "gameName": "Baccarat",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "36",
+    "gameName": "Bao boon chin",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "177",
+    "gameName": "Bingo Adventure",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "148",
+    "gameName": "Bingo Carnaval",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "142",
+    "gameName": "Bonus Hunter",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "87",
+    "gameName": "Book of Gold",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "71",
+    "gameName": "Boom Legend",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "440",
+    "gameName": "Boxing Extravaganza",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "30",
+    "gameName": "Bubble Beauty",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "149",
+    "gameName": "Calaca Bingo",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "127",
+    "gameName": "Callbreak",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "23",
+    "gameName": "Candy Baby",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "216",
+    "gameName": "Candyland Bingo",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "NETG_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "47",
+    "gameName": "Charge Buffalo",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "2",
+    "gameName": "Chin Shi Huang",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "204",
+    "gameName": "Color Prediction",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PPLCO",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "261",
+    "gameName": "Crash Bonus",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PPLCO",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "469",
+    "gameName": "Crash Cricket",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "459",
+    "gameName": "Crash Touchdown",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "40",
+    "gameName": "Crazy FaFaFa",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "92",
+    "gameName": "Crazy Hunter",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "225",
+    "gameName": "Cricket King 18",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PPLCO",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "462",
+    "gameName": "Cricket Roulette",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "NETG_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "44",
+    "gameName": "DiamondParty",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ACEWINS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "42",
+    "gameName": "Dinosaur Tycoon",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ACEWINS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "212",
+    "gameName": "Dinosaur Tycoon II",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "123",
+    "gameName": "Dragon & Tiger",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "60",
+    "gameName": "Dragon Fortune",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "LMONACO_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "46",
+    "gameName": "Dragon Treasure",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ACEWINS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "172",
+    "gameName": "Elf Bingo",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "114",
+    "gameName": "European Roulette",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PPLCO",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "21",
+    "gameName": "Fa Fa Fa",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "38",
+    "gameName": "Fengshen",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "139",
+    "gameName": "Fortune Bingo",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "109",
+    "gameName": "Fortune Gems",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "441",
+    "gameName": "Fortune Gems Scratch",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "464",
+    "gameName": "Fortune King Jackpot",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "NETG_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "436",
+    "gameName": "Fortune Roulette",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PPLCO",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "6",
+    "gameName": "Fortune Tree",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "33",
+    "gameName": "FortunePig",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "422",
+    "gameName": "Fruity Wheel",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "442",
+    "gameName": "Go For Champion",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PPLCO",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "224",
+    "gameName": "Go Rush",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PPLCO",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "4",
+    "gameName": "God Of Martial",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "137",
+    "gameName": "Gold Rush",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "45",
+    "gameName": "Golden Bank",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "103",
+    "gameName": "Golden Empire",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "182",
+    "gameName": "Golden Land",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "233",
+    "gameName": "HILO",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PPLCO",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "82",
+    "gameName": "Happy Fishing",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "26",
+    "gameName": "Hawaii Beauty",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "5",
+    "gameName": "Hot Chilli",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "14",
+    "gameName": "Hyper Burst",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "174",
+    "gameName": "Jackpot Bingo",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "NETG_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "32",
+    "gameName": "Jackpot Fishing",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "112",
+    "gameName": "Journey West M",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "16",
+    "gameName": "Jungle King",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "13",
+    "gameName": "Lucky Ball",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "150",
+    "gameName": "Lucky Bingo",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "91",
+    "gameName": "Lucky Coming",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "421",
+    "gameName": "Lucky Jaguar",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "163",
+    "gameName": "Ludo Quick",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "221",
+    "gameName": "MINI FLUSH",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PPLCO",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "108",
+    "gameName": "Magic Lamp",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "135",
+    "gameName": "Mayan Empire",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "101",
+    "gameName": "Medusa",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "229",
+    "gameName": "Mines",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PPLCO",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "51",
+    "gameName": "Money Coming",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "145",
+    "gameName": "Neko Fortune",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "37",
+    "gameName": "Night City",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "111",
+    "gameName": "Number King",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "240",
+    "gameName": "Party Star",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PPLCO",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "419",
+    "gameName": "Penalty Kicks",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "85",
+    "gameName": "Pharaoh Treasure",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "164",
+    "gameName": "Pirate Queen",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "132",
+    "gameName": "Pool Rummy",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "299",
+    "gameName": "Potion Wizard",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "NETG_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "211",
+    "gameName": "Pusoy Go",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "102",
+    "gameName": "Roma X",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "1",
+    "gameName": "Royal Fishing",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "94",
+    "gameName": "Rummy",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "136",
+    "gameName": "Samba",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "78",
+    "gameName": "Secret Treasure",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "27",
+    "gameName": "SevenSevenSeven",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "17",
+    "gameName": "Shanghai Beauty",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "125",
+    "gameName": "Sic Bo",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "262",
+    "gameName": "Speed Baccarat",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PPLCO",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "49",
+    "gameName": "Super Ace",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "LMONACO_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "542",
+    "gameName": "Super Ace 2",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "NETG_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "403",
+    "gameName": "Super Ace Deluxe",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PPLCO",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "409",
+    "gameName": "Super Ace Joker",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "439",
+    "gameName": "Super Ace Scratch",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "100",
+    "gameName": "Super Rich",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "72",
+    "gameName": "TeenPatti",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "161",
+    "gameName": "TeenPatti 20-20",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "159",
+    "gameName": "TeenPatti Joker",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "427",
+    "gameName": "Thai Hilo",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "NETG_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "130",
+    "gameName": "Thor X",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "208",
+    "gameName": "Trial of Phoenix",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PPLCO",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "404",
+    "gameName": "Ultimate Texas Hold'em",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PPLCO",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "9",
+    "gameName": "War Of Dragons",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "166",
+    "gameName": "Wild Racer",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "226",
+    "gameName": "Witches Night",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "PPLCO",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "146",
+    "gameName": "World Cup",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "43",
+    "gameName": "XiYangYang",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "122",
+    "gameName": "iRich Bingo",
+    "expectedProvider": "JILIS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "keno",
+    "gameName": "Keno",
+    "expectedProvider": "SPRIBE",
+    "actualProviderInDB": "INOUT",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "plinko",
+    "gameName": "Plinko",
+    "expectedProvider": "SPRIBE",
+    "actualProviderInDB": "INOUT",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "41",
+    "gameName": "Buffalo Freedom",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "28",
+    "gameName": "Buffalo Gold",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "35",
+    "gameName": "Burning Seven",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "44",
+    "gameName": "Cabaret Cash",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "ACEWINS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "15",
+    "gameName": "Child of Fortune",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "19",
+    "gameName": "Child of Happiness",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "14",
+    "gameName": "Child of Success",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "55",
+    "gameName": "Clash of Slot",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "52",
+    "gameName": "Cleopatra Tumble",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "ACEWINS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "7",
+    "gameName": "Dancing Ladybug",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "4",
+    "gameName": "Egyptian Beauty",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "34",
+    "gameName": "Giant's Lamp",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "47",
+    "gameName": "God of Thunder",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "25",
+    "gameName": "Gold Bonus",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "17",
+    "gameName": "Golden Agent",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "30",
+    "gameName": "Golden Fish",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "26",
+    "gameName": "Green Hat Fairy",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "43",
+    "gameName": "Jackpot Star",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "53",
+    "gameName": "Jelly Jelly",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "2",
+    "gameName": "Kelly's Wheel Double",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "10",
+    "gameName": "Kelly's Wheel Single",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "3",
+    "gameName": "Killer Whale",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "33",
+    "gameName": "King's Knight",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "42",
+    "gameName": "Medusa Queen",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "ACEWINS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "40",
+    "gameName": "Nine Jackpots",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "37",
+    "gameName": "Piggy Money",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "1",
+    "gameName": "Pumpkin Farm",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "9",
+    "gameName": "Road to Mystic OZ",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "27",
+    "gameName": "Shoot the Cannon",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "11",
+    "gameName": "Three Little Pigs",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "8",
+    "gameName": "Treasure of Zeus",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "13",
+    "gameName": "WILD Kelly",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "77",
+    "gameName": "Buddha's Treasure",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "20",
+    "gameName": "Christmas Gift",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "18",
+    "gameName": "Dragon Queen",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "70",
+    "gameName": "Hello Neko",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "32",
+    "gameName": "Jungle King",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "6",
+    "gameName": "Kitty in the Basket",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "61",
+    "gameName": "Lady of the Generals",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "68",
+    "gameName": "Wild Bang Bang",
+    "expectedProvider": "LMONACO_UNI",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "51",
+    "gameName": "Bingo Fortune",
+    "expectedProvider": "ACEWINS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "17",
+    "gameName": "Dragons Legend",
+    "expectedProvider": "ACEWINS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "9",
+    "gameName": "Fortune Tree",
+    "expectedProvider": "ACEWINS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "16",
+    "gameName": "Fu Xing Gao Zhao",
+    "expectedProvider": "ACEWINS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "22",
+    "gameName": "Golden Hen",
+    "expectedProvider": "ACEWINS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "15",
+    "gameName": "Grand Blue",
+    "expectedProvider": "ACEWINS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "47",
+    "gameName": "High Road King Classic",
+    "expectedProvider": "ACEWINS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "41",
+    "gameName": "High Road King Plus",
+    "expectedProvider": "ACEWINS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "13",
+    "gameName": "Hot Shot",
+    "expectedProvider": "ACEWINS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "33",
+    "gameName": "Hulao Battle",
+    "expectedProvider": "ACEWINS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "45",
+    "gameName": "Mayan Empire",
+    "expectedProvider": "ACEWINS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "1",
+    "gameName": "Phoenix Legend",
+    "expectedProvider": "ACEWINS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "40",
+    "gameName": "Pirate Treasure",
+    "expectedProvider": "ACEWINS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "32",
+    "gameName": "SHU LAI BAO",
+    "expectedProvider": "ACEWINS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "24",
+    "gameName": "Super Bar",
+    "expectedProvider": "ACEWINS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "26",
+    "gameName": "Tons Of Money",
+    "expectedProvider": "ACEWINS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "4",
+    "gameName": "Zeus",
+    "expectedProvider": "ACEWINS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "53",
+    "gameName": "ZombieAwaken",
+    "expectedProvider": "ACEWINS",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "1024",
+    "gameName": "Andar Bahar",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "HACKSAW",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "210",
+    "gameName": "Auto Mega Roulette",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "411",
+    "gameName": "Baccarat 5",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "425",
+    "gameName": "Baccarat 7",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "104",
+    "gameName": "Baccarat Lobby",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "1320",
+    "gameName": "Big Bass Crash",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "PPDSO",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "103",
+    "gameName": "Blackjack Lobby",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "483",
+    "gameName": "Chinese Speed Baccarat 3",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "NETG_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "110",
+    "gameName": "D&W",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "1001",
+    "gameName": "Dragon Tiger",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "IMOON",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "108",
+    "gameName": "Dragon Tiger",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "4001",
+    "gameName": "Football Blitz",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "IMOON",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "434",
+    "gameName": "Fortune 6 Baccarat",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "105",
+    "gameName": "Gameshows",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "2201",
+    "gameName": "High Flyer",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "PPDSO",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "450",
+    "gameName": "Indonesia Speed Baccarat 1",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "499",
+    "gameName": "Korean Baccarat 2",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "NETG_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "461",
+    "gameName": "Korean Privé Lounge Baccarat 1",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "NETG_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "441",
+    "gameName": "Korean Speed Baccarat 1",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "449",
+    "gameName": "Korean Speed Baccarat 2",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "459",
+    "gameName": "Korean Speed Baccarat 3",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "460",
+    "gameName": "Korean Speed Baccarat 4",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "476",
+    "gameName": "Korean Speed Baccarat 5",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "NETG_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "101",
+    "gameName": "Live Casino Lobby",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "211",
+    "gameName": "Lucky 6 Roulette",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "111",
+    "gameName": "Other Promos",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "123",
+    "gameName": "Power Ball",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "454",
+    "gameName": "Privé Lounge Baccarat 1",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "455",
+    "gameName": "Privé Lounge Baccarat 2",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "456",
+    "gameName": "Privé Lounge Baccarat 3",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "457",
+    "gameName": "Privé Lounge Baccarat 4",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "458",
+    "gameName": "Privé Lounge Baccarat 5",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "NETG_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "466",
+    "gameName": "Privé Lounge Baccarat 6",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "467",
+    "gameName": "Privé Lounge Baccarat 7",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "468",
+    "gameName": "Privé Lounge Baccarat 8",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "102",
+    "gameName": "Roulette Lobby",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "206",
+    "gameName": "Roulette Macao",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "107",
+    "gameName": "Sic Bo",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "109",
+    "gameName": "Sic Bo & Dragon Tiger",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "1301",
+    "gameName": "Spaceman",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "PPDSO",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "428",
+    "gameName": "Speed Baccarat 10",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "NETG_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "435",
+    "gameName": "Speed Baccarat 16",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "439",
+    "gameName": "Speed Baccarat 17",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "415",
+    "gameName": "Speed Baccarat 6",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "203",
+    "gameName": "Speed Roulette 1",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "205",
+    "gameName": "Speed Roulette 2",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "ASPECTS",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "433",
+    "gameName": "Super 8 Baccarat",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "451",
+    "gameName": "Thai Speed Baccarat 1",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "452",
+    "gameName": "Thai Speed Baccarat 2",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "545",
+    "gameName": "VIP Roulette - The Club",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "NETG_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "479",
+    "gameName": "Vietnamese Speed Baccarat 1",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "NETG_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "484",
+    "gameName": "Vietnamese Speed Baccarat 3",
+    "expectedProvider": "PPLCO",
+    "actualProviderInDB": "NETG_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "1010",
+    "gameName": "King Treasure",
+    "expectedProvider": "HACKSAW",
+    "actualProviderInDB": "IMOON",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "1001",
+    "gameName": "Platinum Scratch",
+    "expectedProvider": "HACKSAW",
+    "actualProviderInDB": "IMOON",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "1011",
+    "gameName": "Queen Treasure",
+    "expectedProvider": "HACKSAW",
+    "actualProviderInDB": "IMOON",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "1008",
+    "gameName": "Scratchy",
+    "expectedProvider": "HACKSAW",
+    "actualProviderInDB": "IMOON",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "11",
+    "gameName": "5 Ghosts",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "23",
+    "gameName": "5 Lucky Elements",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "25",
+    "gameName": "Ba Xian Chuan Qi",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "3",
+    "gameName": "Backyard Gold",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "30",
+    "gameName": "Cash Typhoon",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "13",
+    "gameName": "Doggone Lucky!",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "4",
+    "gameName": "Dou Di Zhu",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "14",
+    "gameName": "Double Happy",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "5",
+    "gameName": "Dragon Gate",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "18",
+    "gameName": "Eternal Fortune",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "10",
+    "gameName": "Five Flowers",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "2",
+    "gameName": "Fortune Cats",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "33",
+    "gameName": "Golden Dragon Club",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "9",
+    "gameName": "Hu Got Lucky?",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "28",
+    "gameName": "Hungry Cats",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "6",
+    "gameName": "Jungle Treasure",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "36",
+    "gameName": "KTV Kash",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "7",
+    "gameName": "Kickin' Kash!",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "17",
+    "gameName": "Le Cirque",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "20",
+    "gameName": "Lotus Lantern",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "15",
+    "gameName": "Love Story",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "37",
+    "gameName": "Lucky Legend",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "27",
+    "gameName": "Lucky Spin",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "19",
+    "gameName": "Lucky Spin Double Wild",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "21",
+    "gameName": "Magpie Bridge",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "22",
+    "gameName": "Mazu",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "16",
+    "gameName": "Rabbit Rampage",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "26",
+    "gameName": "Sheng Xiao Chuan Qi",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "8",
+    "gameName": "Stone to Gold",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "1",
+    "gameName": "The Magic Brush",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "12",
+    "gameName": "Typhoon Cash",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "29",
+    "gameName": "Wealthy Chicken",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "35",
+    "gameName": "Wu Jin Cai Yuan",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "24",
+    "gameName": "Xiao Fu Xing",
+    "expectedProvider": "ASPECTS",
+    "actualProviderInDB": "PIXMOVE",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "438",
+    "gameName": "African King: Hold 'n' Link",
+    "expectedProvider": "NETG_UNI",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "471",
+    "gameName": "Buffalo Fortune Wheel",
+    "expectedProvider": "NETG_UNI",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "454",
+    "gameName": "Cash Kingdom",
+    "expectedProvider": "NETG_UNI",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "467",
+    "gameName": "Dancing Lanterns",
+    "expectedProvider": "NETG_UNI",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "455",
+    "gameName": "Diamond Shot Blitz",
+    "expectedProvider": "NETG_UNI",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "425",
+    "gameName": "Explorer's Gold: Cash Blast",
+    "expectedProvider": "NETG_UNI",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "460",
+    "gameName": "Heat Hit: Hold 'n' Link",
+    "expectedProvider": "NETG_UNI",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "421",
+    "gameName": "Inferno Fruits",
+    "expectedProvider": "NETG_UNI",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "416",
+    "gameName": "Just Gems: Hold 'N' Link",
+    "expectedProvider": "NETG_UNI",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "466",
+    "gameName": "Mighty Horses: Cash Connect",
+    "expectedProvider": "NETG_UNI",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "463",
+    "gameName": "Royal Fruits 5 Hold 'n' Link",
+    "expectedProvider": "NETG_UNI",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "453",
+    "gameName": "Savanna Squad",
+    "expectedProvider": "NETG_UNI",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "415",
+    "gameName": "The Big Game: Hold 'N' Link",
+    "expectedProvider": "NETG_UNI",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  },
+  {
+    "gameCode": "468",
+    "gameName": "Volcano Fruits",
+    "expectedProvider": "NETG_UNI",
+    "actualProviderInDB": "VA_UNI",
+    "status": "MOVED"
+  }
+]

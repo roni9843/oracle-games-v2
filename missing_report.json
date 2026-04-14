@@ -1,0 +1,56 @@
+[
+  {
+    "provider": "JILIS",
+    "expected": 199,
+    "actual": 80,
+    "diff": -119
+  },
+  {
+    "provider": "SPRIBE",
+    "expected": 9,
+    "actual": 7,
+    "diff": -2
+  },
+  {
+    "provider": "LMONACO_UNI",
+    "expected": 43,
+    "actual": 3,
+    "diff": -40
+  },
+  {
+    "provider": "ACEWINS",
+    "expected": 48,
+    "actual": 30,
+    "diff": -18
+  },
+  {
+    "provider": "PPLCO",
+    "expected": 135,
+    "actual": 83,
+    "diff": -52
+  },
+  {
+    "provider": "HACKSAW",
+    "expected": 164,
+    "actual": 160,
+    "diff": -4
+  },
+  {
+    "provider": "ASPECTS",
+    "expected": 144,
+    "actual": 110,
+    "diff": -34
+  },
+  {
+    "provider": "DSTPLAY",
+    "expected": 35,
+    "actual": 36,
+    "diff": 1
+  },
+  {
+    "provider": "NETG_UNI",
+    "expected": 98,
+    "actual": 84,
+    "diff": -14
+  }
+]

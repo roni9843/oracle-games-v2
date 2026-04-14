@@ -1,0 +1,161 @@
+@import "tailwindcss";
+
+:root {
+  --background: 224 71% 4%;
+  --foreground: 213 31% 91%;
+}
+
+body {
+  @apply bg-slate-950 text-slate-100 min-h-screen antialiased;
+}
+
+/* ============================================
+   GRADIENT ANIMATION
+============================================ */
+@keyframes gradient-xy {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+.animate-gradient {
+  background-size: 200% 200%;
+  animation: gradient-xy 3s ease infinite;
+}
+
+/* ============================================
+   ACCORDION
+============================================ */
+.animate-accordion-down { animation: accordion-down 0.2s ease-out; }
+@keyframes accordion-down {
+  from { opacity: 0; transform: translateY(-10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ============================================
+   CARD SHINE SWEEP
+============================================ */
+@keyframes shine {
+  0%   { transform: translateX(-150%) skewX(-15deg); }
+  100% { transform: translateX(250%) skewX(-15deg); }
+}
+.animate-shine { animation: shine 0.8s ease-out forwards; }
+
+/* ============================================
+   GLASS SHIMMER (persistent slow sweep)
+============================================ */
+.glass-shine {
+  background: linear-gradient(
+    105deg,
+    transparent 30%,
+    rgba(255,255,255,0.18) 48%,
+    rgba(255,255,255,0.32) 50%,
+    rgba(255,255,255,0.18) 52%,
+    transparent 70%
+  );
+  background-size: 250% 100%;
+  animation: glass-sweep 4s linear infinite;
+}
+@keyframes glass-sweep {
+  0%   { background-position: 250% 0; }
+  100% { background-position: -250% 0; }
+}
+
+/* ============================================
+   RAINBOW BORDER
+============================================ */
+@keyframes rainbow-spin {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+.rainbow-border { position: relative; z-index: 0; }
+.rainbow-border::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  inset: -2px;
+  border-radius: 18px;
+  background: linear-gradient(45deg,
+    #ff0000, #ff7300, #fffb00,
+    #48ff00, #00ffd5, #002bff,
+    #7a00ff, #ff00c8, #ff0000
+  );
+  background-size: 400%;
+  animation: rainbow-spin 12s linear infinite;
+  opacity: 0;
+  transition: opacity 0.4s;
+}
+.group:hover .rainbow-border::before { opacity: 1; }
+
+/* ============================================
+   STARFIELD ANIMATION
+============================================ */
+@keyframes twinkle {
+  0%, 100% { opacity: 0.2; transform: scale(1); }
+  50%       { opacity: 1;   transform: scale(1.4); }
+}
+.star {
+  position: absolute;
+  border-radius: 50%;
+  background: white;
+  animation: twinkle var(--duration, 3s) ease-in-out infinite;
+  animation-delay: var(--delay, 0s);
+}
+
+/* ============================================
+   FLOATING PARTICLES
+============================================ */
+@keyframes float-up {
+  0%   { transform: translateY(0) scale(1); opacity: 0.5; }
+  100% { transform: translateY(-120px) scale(0.3); opacity: 0; }
+}
+.particle {
+  position: absolute;
+  border-radius: 50%;
+  animation: float-up var(--dur, 3s) ease-in infinite;
+  animation-delay: var(--delay, 0s);
+}
+
+/* ============================================
+   GLOW PULSE (for active type pill)
+============================================ */
+@keyframes glow-pulse {
+  0%, 100% { box-shadow: 0 0 6px 2px currentColor; }
+  50%       { box-shadow: 0 0 18px 6px currentColor; }
+}
+.glow-pill { animation: glow-pulse 2.5s ease-in-out infinite; }
+
+/* ============================================
+   NEON TEXT FLICKER
+============================================ */
+@keyframes neon-flicker {
+  0%, 19%, 21%, 23%, 25%, 54%, 56%, 100% { opacity: 1; }
+  20%, 24%, 55% { opacity: 0.4; }
+}
+
+/* ============================================
+   CARD FLOAT
+============================================ */
+@keyframes card-float {
+  0%, 100% { transform: translateY(0); }
+  50%       { transform: translateY(-6px); }
+}
+.card-float { animation: card-float 4s ease-in-out infinite; }
+
+/* ============================================
+   SLIDE IN ON LOAD
+============================================ */
+@keyframes slide-fade-in {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.slide-in {
+  animation: slide-fade-in 0.4s ease-out forwards;
+  opacity: 0;
+}
+
+/* ============================================
+   SCROLLBAR HIDE
+============================================ */
+.scrollbar-hide::-webkit-scrollbar { display: none; }
+.scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }

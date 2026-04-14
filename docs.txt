@@ -1,0 +1,74 @@
+/v2 api endpoints details
+Post url = "https://crazybet99.com/getgameurl/v2"
+
+Headers = "x-dstgame-key"
+ 
+ Launce game Json body
+ {
+    "username": "username", // require
+    "money": 1000, // require
+
+   
+    "game_code": "abcdgefg123", // not exit then this lobby -> 0  // optional ( if game code exist then must require if not exit then here init 0  )  
+    "provider_code": "JILI", // require 
+    "game_type": "SLOT"  // not exist then this lobby 0 //  optional ( if game code exist then must require if not exit then then int 0 )
+}
+
+response {
+"joyhobe" : "https//"
+}
+
+
+
+
+
+
+// Game List api
+ Post url = "https://oracleapi.co.uk/getgamelist"
+ 
+ Game List Json Body
+{
+    "token": "4895677890656568745",
+    "providerCode": "SPRIBE"
+ }
+
+and response example
+
+
+{
+  "success": true,
+  "message": "Game list retrieved successfully",
+  "data": [
+    {
+      "gameCode": "gpas_1reeler_pop",
+      "gameName": "1-Of-A-Kind",
+      "jackpot": "FALSE",
+      "image": "https://img.capalangresource.com/images/public/images/games/pts/gpas_1reeler_pop_Tue Jul 08 09:37:23 MYT 2025.png",
+      "gameType": "SLOT",
+      "eventGameType": null,
+      "freeTry": "FALSE",
+      "seq": 1,
+      "rtp": 100,
+      "balance": null,
+      "providerCode": null
+    },
+    {
+      "gameCode": "gpas_28dman_pop",
+      "gameName": "28 Mansions",
+      "jackpot": "FALSE",
+      "image": "https://img.capalangresource.com/images/public/images/games/pts/gpas_28dman_pop_Tue Jul 08 16:14:00 MYT 2025.png",
+      "gameType": "SLOT",
+      "eventGameType": null,
+      "freeTry": "FALSE",
+      "seq": 1,
+      "rtp": 100,
+      "balance": null,
+      "providerCode": null
+    },
+
+    this type and this type 
+
+    {
+  "success": false,
+  "message": "No game found"
+}
